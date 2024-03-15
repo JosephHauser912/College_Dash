@@ -6,7 +6,7 @@ import pandas as pd             # pip install pandas
 import plotly.graph_objs as go
 # Data: https://www.dallasopendata.com/Services/Animals-Inventory/qgg6-h4bd
 
-df = pd.read_csv("univ2.csv")
+df = pd.read_csv("Univ2.csv")
 print(df.head())
 
 
